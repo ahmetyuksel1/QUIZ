@@ -1,5 +1,4 @@
 import random
-from re import X
 import colorama
 from openpyxl import Workbook,load_workbook
 from time import sleep
